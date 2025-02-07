@@ -1,0 +1,5 @@
+#scroll{
+    /* transform: translate(20px,50%); */
+    translate: 0px 30px
+}
+@import "tailwindcss";
